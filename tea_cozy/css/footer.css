@@ -1,0 +1,12 @@
+.vemProFootercontatos{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    margin: 10px;
+}
+
+.vemProFooterCopyright{
+    text-align: left;
+    margin-left: 20px;
+}

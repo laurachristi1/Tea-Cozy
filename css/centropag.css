@@ -1,0 +1,52 @@
+.centro{
+    background-image: url(../imagens/potedechá.jpg);
+    width: 1200px;
+    height: 700px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.textos__principais{
+   width: 100%;
+   padding: 10px;
+   flex-direction: column;
+   gap: 10px;
+   line-height: 40px;
+   background-color: black;
+}
+
+.segundotexto__principal{
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    line-height: 35px;
+}
+
+h4{
+    margin-top: 10px;
+    margin-bottom: 18px;
+    padding: auto;
+    text-align: center;
+}
+
+#blocosParteFinal{
+    display: flex;
+    gap: 40px;
+    padding: 25px;
+}
+
+.bloquinho{
+    background-color: black;
+    padding: 20px 0px 30px 0px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    opacity: 1.0;
+}

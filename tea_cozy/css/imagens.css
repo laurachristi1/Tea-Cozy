@@ -1,0 +1,30 @@
+.todasasimagens{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+.imagensparte2{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+
+.img{
+    height: 200px;
+    width: 300px;
+}
+
+.partefinal{
+background-image: url(../imagens/café.jpg);
+height: 540px;
+width: 1200px;
+gap: 15px;
+margin: auto;
+margin-top: 50px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
